@@ -1,5 +1,4 @@
 # Facebook-Copy-Log-In-Page
-SocialFX 🖥️✨
 
 This project is a desktop application inspired by Facebook’s interface, built to showcase frontend GUI design and user authentication logic using JavaFX. It demonstrates the ability to replicate modern interfaces and implement core backend functionality for desktop applications.
 
